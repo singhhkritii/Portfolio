@@ -352,6 +352,7 @@ section.contact .card-wrapper {
   display: grid;
   grid-template-columns: 1fr 1fr;
   padding-bottom: 2rem;
+  padding-top: 1rem;
   grid-gap: 1rem;
 }
 
